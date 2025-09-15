@@ -1,7 +1,7 @@
 import CTA from "@/components/CallToAction";
 import Features from "@/components/Features";
 import Pricing from "@/components/Pricing";
-import Intro from "@/(main)/intro/page";
+import Intro from "@/app/(main)/intro/page";
 
 
 export default function Home() {
